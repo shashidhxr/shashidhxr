@@ -1,16 +1,14 @@
-## Hi there 👋
+### About me
+I'm Shashidhar Biradar, a computer enthusiast who likes to explore new technologies. I'm interested in:
+ - Wev Development
+ - Cyber Security 
+ - Machine Learning
 
-<!--
-**shashidhxr/shashidhxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Github Stats
 
-Here are some ideas to get you started:
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shashidhxr&theme=tokyonight-duo&hide_border=true&mode=weekly)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashidhxr&hide_progress=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### To connect or collaborate:
+email: shashidharb459@gmail.com             
+linkedin: https://linkedin.com/in/shashidhxr
