@@ -1,4 +1,3 @@
-### About me
 I'm Shashidhar Biradar, an engineer and a computer enthusiast. I'm interested in:
  - Web Development
  - Cyber Security 
